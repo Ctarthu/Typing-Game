@@ -1,0 +1,44 @@
+
+header{
+    background:#396060;
+    font-size: 50px;
+    padding: 10px;
+}
+
+body{
+
+    margin: auto;
+    background-color: #1d3030;
+    color:#F0F8FF;
+    text-align:center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.typeThisWord{
+    font-size: 50px;
+}
+.inputWord{
+    font-size: 40px;
+    
+}
+.scoreDisplay{
+    font-size: 50px;
+}
+.wordDisplay{
+    font-size:80px;
+}
+.timeDisplay{
+    font-size: 50px;
+}
+.textInput{
+    background-color: transparent;
+    color: #F0F8FF;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size:40px;
+    width: 20%;
+    height: 70px;
+    margin: auto;
+    resize: none;
+    text-align: center;
+   
+}
