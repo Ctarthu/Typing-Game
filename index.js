@@ -8,7 +8,7 @@ const scoredisplay=document.querySelector('#score-Display')
 const timedisplay=document.querySelector('#time-Display')
 const typeThisWord=document.querySelector('#type-This-Word')
 
-var time=3
+var time=30
 var scorecount=0
 var charcount=-1
 function getRandomWord(){
